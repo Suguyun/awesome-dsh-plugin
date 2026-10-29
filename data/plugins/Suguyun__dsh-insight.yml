@@ -1,0 +1,7 @@
+url: https://github.com/Suguyun/dsh-insight
+name: Suguyun/dsh-insight
+category: browser
+description:
+  en: 'Chrome/Edge companion extension with a side panel that sends selected text to dsh and shows the Markdown answer with multi-turn follow-ups; its host-side tools let the agent read the current page, capture HTTP traffic and drive the browser.'
+  zh: 'Chrome/Edge 浏览器伴侣扩展：侧栏把选中的文字交给 dsh 解读，以 Markdown 展示并支持多轮追问；宿主侧工具让智能体读取当前页面、抓取 HTTP 流量、操作浏览器。'
+icon: https://raw.githubusercontent.com/Suguyun/dsh-insight/main/extension/icons/icon-128.png
